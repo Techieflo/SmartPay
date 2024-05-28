@@ -1,2 +1,2 @@
 # SmartPay
-A simple banking App
+A simple banking App Authentication flow
