@@ -1,6 +1,6 @@
-# assessment
+# SmartPay Authentication flow
 
-A new Flutter project.
+A new Flutter project integrating the UI of SmartPay and authethication logic.
 
 ## Getting Started
 
